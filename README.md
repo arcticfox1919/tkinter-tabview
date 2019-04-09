@@ -6,7 +6,7 @@
 
 
 使用方法
-```
+```python
 import tkinter as tk
 from tkinter import messagebox
 from tabview import TabView
