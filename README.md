@@ -50,5 +50,20 @@ tab_view.pack(fill="both", expand='yes', pady=2)
 root.mainloop()
 ```
 
+# tkinter-DragWindow
+实现桌面可拖拽小挂件
 
+![预览](https://github.com/arcticfox1919/ImageHosting/blob/master/GIF.gif?raw=true)
+
+使用方法
+
+```
+#　导入DragWindow类
+root = DragWindow()
+root.set_window_size(200, 200)
+root.set_display_postion(500, 400)
+tk.Button(root, text="Exit", command=root.quit).pack(side=tk.BOTTOM)
+
+root.mainloop()
+```
 
