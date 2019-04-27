@@ -53,7 +53,7 @@ root.mainloop()
 # tkinter-DragWindow
 实现桌面可拖拽小挂件
 
-![预览](https://github.com/arcticfox1919/ImageHosting/blob/master/GIF.gif?raw=true)
+![预览](https://github.com/arcticfox1919/ImageHosting/blob/master/DragWindow.gif?raw=true)
 
 使用方法
 
