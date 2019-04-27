@@ -67,3 +67,5 @@ tk.Button(root, text="Exit", command=root.quit).pack(side=tk.BOTTOM)
 root.mainloop()
 ```
 
+了解更多，查看本人博客 [传送门](https://arcticfox.blog.csdn.net/article/details/89605240)
+
