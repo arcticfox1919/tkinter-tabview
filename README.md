@@ -75,6 +75,8 @@ root.mainloop()
 
 ![2021-03-29-001](https://gitee.com/arcticfox1919/ImageHosting/raw/master/img/2021-03-29-001.png)
 
+[视频讲解地址](https://www.bilibili.com/video/BV1YB4y1w75T)
+
 ```python
 import tkinter as tk
 
